@@ -1,10 +1,10 @@
+const allowedCors = [
+  'http://localhost:3000',
+  'http://localhost:3001',
+  'kotovloh.nomoredomainswork.ru',
+  'kotovloh-backend.nomoredomainswork.ru'
+];
 function cors(req, res, next) {
-    const allowedCors = [
-    'https://practicum.yandex.ru',
-    'https://students-projects.ru',
-    'http://localhost:3000',
-    'http://localhost:3001'
-  ];
     const { origin } = req.headers;
     console.log(`Попытка осуществить запрос с адреса: ${origin}`);
     
