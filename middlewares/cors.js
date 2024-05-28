@@ -2,7 +2,6 @@ const allowedCors = [
   'http://localhost:3000',
   'http://localhost:3001',
   'kotovloh.nomoredomainswork.ru',
-  'kotovloh-backend.nomoredomainswork.ru'
 ];
 function cors(req, res, next) {
     const { origin } = req.headers;
