@@ -1,5 +1,7 @@
-Ссылка на репозиторий с фронтендом: https://github.com/Werty1206/pindie-FRONT
+Ссылка на репозиторий с фронтендом: https://github.com/GogoglAngo/nikak2
 
-Ссылка на домен фронтенда: https://mishanya.frontend.nomoredomainswork.ru
+Ссылка на домен фронтенда: https://kotovloh.nomoredomainswork.ru
 
-IP-адрес: https://mishanya.backend.nomoredomainswork.ru
+IP-адрес: https://kotovloh-backend.nomoredomainswork.ru
+
+web + git = love
