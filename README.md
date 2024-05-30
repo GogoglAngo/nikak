@@ -2,8 +2,9 @@
 
 Ссылка на домен фронтенда: https://kotovloh.nomoredomainswork.ru
 
-IP-адрес: https://kotovloh-backend.nomoredomainswork.ru
+Cыылка на домен бэка(если надо): https://kotovloh-backend.nomoredomainswork.ru
+
+IPшник: 158.160.162.226
 
 web + git = love
 
-я случайно сделала не тут пулл реквест
