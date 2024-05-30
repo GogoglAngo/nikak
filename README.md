@@ -3,3 +3,5 @@
 Ссылка на домен фронтенда: https://kotovloh.nomoredomainswork.ru
 
 IP-адрес: https://kotovloh-backend.nomoredomainswork.ru
+
+web + git = love
