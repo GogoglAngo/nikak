@@ -6,5 +6,5 @@ Cыылка на домен бэка(если надо): https://kotovloh-backen
 
 IPшник: 158.160.162.226
 
-web + git = love
+#К.лох
 
